@@ -1,18 +1,5 @@
 #include "library2.h"
 
-// Exponencial negativa.
-double random_poisson(double lambda){ 
-    double x, poisson;
-    int i;
-    for (i=0;i<5;i++){
-        x =(double)(rand()*1.0/RAND_MAX);
-        poisson = (-(1/lambda)*log(x))*1; 
-        //printf ("%lf",x);
-    }
-	return poisson;
-}
-
-
 int main(int argc, char **argv){
 
     int pkt_numero, i, recursos, fuente,k,x,cont,j;
