@@ -13,12 +13,18 @@ The repository is divided in two exercises:
 	* Process each event depending of their type.
 	*  Analyze the correct operation of the event engine, for which An M/M/∞ system is used, in which the packages come according to a Poisson process, and nothing else is transmitted, assuming a time of service negative exponential.
  	* Portray in Octave the time between event arrivals and also the average time a packet stays in the system.
+	
 * Analysis of a finite sources and pure loss Communication system
 	* Use of the simulator for the analysis of communication system
 	* Use the simulator to estudy the behavior of a pico-cell of a mobile communication system.
 	* Portray in Octave probability of loss according to the number of sources in the system
 	* Portray time percentage that corresponds to all resources being occupied at the same time.
 	
+## Code 
+* `"main.c"`: Main C code.
+* `"library2.h"`: Library  containing all functions and constants `"main.c"` utilize
+* `"graphics.m"`: Octave Script where the calculus and representation (plots) are made.
+
 ## Exercises Guidelines
 
 Image below shows exercises 1 and 2 guidelines.
