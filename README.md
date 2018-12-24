@@ -23,9 +23,16 @@ The repository is divided in two exercises:
 
 Image below shows exercises 1 and 2 guidelines.
 
-![Guidelines](https://raw.githubusercontent.com/betegon/Event-Simulator-for-Communication-Networks/blob/master/Documentation/implementation.png)
+* Ex.1
+![Implementation](https://raw.githubusercontent.com/betegon/Event-Simulator-for-Communication-Networks/blob/master/Documentation/implementation.png)
+
+![Test](https://raw.githubusercontent.com/betegon/Event-Simulator-for-Communication-Networks/master/Documentation/proof.png)
+
+
+Ex.2
+![Guidelines](https://raw.githubusercontent.com/betegon/Event-Simulator-for-Communication-Networks/master/Documentation/projectB.png)
 
 the next image shows some examples of parameters to use for implementing the exercises solutions.
 
-![parameters](https://raw.githubusercontent.com/betegon/Event-Simulator-for-Communication-Networks/master/Documentation/implementation.png)
+![parameters](https://raw.githubusercontent.com/betegon/Event-Simulator-for-Communication-Networks/master/Documentation/parameters.png)
 
