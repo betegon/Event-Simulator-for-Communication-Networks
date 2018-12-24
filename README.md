@@ -27,5 +27,5 @@ Image below shows exercises 1 and 2 guidelines.
 
 the next image shows some examples of parameters to use for implementing the exercises solutions.
 
-![parameters](https://github.com/betegon/Media_Access_Control_Protocols_Aloha_CSMA/blob/master/documentation/parametros.png?raw=true)
+![parameters](https://raw.githubusercontent.com/betegon/Event-Simulator-for-Communication-Networks/master/Documentation/implementation.png)
 
